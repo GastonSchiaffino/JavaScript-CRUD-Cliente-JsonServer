@@ -5,4 +5,5 @@ Este proyecto es un CRUD(Create-Read-Update-Delete) de clientes utilizando json 
 https://gastonschiaffino.github.io/JavaScript-CRUD-Cliente-JsonServer/
 
 ### :tv: Home Screen
-![home](/assets/.png)
+![agregar-clientes](/assets/nuevocliente.png)
+![lista-clientes](/assets/crud.png)
