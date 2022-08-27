@@ -3,7 +3,7 @@
     {
       "nombre": "Gaston Federico",
       "email": "gaston@gmail.com",
-      "telefono": "2234977520",
+      "telefono": "2234977777",
       "empresa": "GSA",
       "id": 28
     },
@@ -27,13 +27,6 @@
       "telefono": "2231111111",
       "empresa": "Arredo",
       "id": 31
-    },
-    {
-      "nombre": "Gaston",
-      "email": "gastonschiaffino10@gmail.com",
-      "telefono": "02234977520",
-      "empresa": "Gsa",
-      "id": 32
     }
   ]
 }
